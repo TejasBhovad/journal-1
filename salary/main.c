@@ -7,5 +7,5 @@ int main(){
     hra = (40 * baseSal) / 100;
     grossSal = baseSal + hra + da;
     printf("Gross Salary: %.2lf", grossSal);
-    printf("\n");
+    printf("\n\n");
 }
