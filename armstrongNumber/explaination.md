@@ -1,3 +1,20 @@
+<!-- Use CTRL+K+V if you are in VS code -->
+
+## Question [3]
+
+WAP to check whether the entered number is Armstrong or not
+
+## Algorithm
+
+1. Start the program
+2. Accept value of N
+3. Find if number is armstrong number
+4. print yes or no accordingly
+5. End the program
+
+## Code
+
+```c
 #include <stdio.h>
 #include <math.h>
 int main()
@@ -32,3 +49,14 @@ int main()
     printf("\n");
     return 0;
 }
+```
+
+## Output
+
+![Output](/src/output/armstrong.png)
+
+<!-- 
+Note: if you are using text-editor to view this document I highly recommend you to use vs code or sublime text so its easier to read the contents of the file
+VS Code - https://code.visualstudio.com/download
+Sublime Text - https://www.sublimetext.com/download 
+--!>

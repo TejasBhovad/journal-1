@@ -1,3 +1,20 @@
+<!-- Use CTRL+K+V if you are in VS code -->
+
+## Question [2]
+
+WAP to display class of students according to range given (use if else ladder).
+
+## Algorithm
+
+1. Start the program
+2. Accept marks
+3. find the grades of student
+4. print the grade
+5. End the program
+
+## Code
+
+```c
 #include <stdio.h>
 int main()
 {
@@ -31,3 +48,14 @@ int main()
     printf("\n\n");
     return 0;
 }
+```
+
+## Output
+
+![Output](/src/output/grades.png)
+
+<!-- 
+Note: if you are using text-editor to view this document I highly recommend you to use vs code or sublime text so its easier to read the contents of the file
+VS Code - https://code.visualstudio.com/download
+Sublime Text - https://www.sublimetext.com/download 
+--!>
