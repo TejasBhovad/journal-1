@@ -6,6 +6,8 @@
 
 All C programs relevant to Semester I Journal
 
+>Don't rely solely on this repository and check each program before writing
+
 ## Table of Contents
 
 1. [ Gross salary](/salary/explaination.md)
