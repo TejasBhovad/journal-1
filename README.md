@@ -4,7 +4,7 @@
 
 ## Structured programming Journal programs
 
-All C programs relevant to Semester I
+All C programs relevant to Semester I Journal
 
 ## Table of Contents
 
@@ -15,7 +15,12 @@ All C programs relevant to Semester I
 5. [ Pascal triangle](/pascalsTriangle/explaination.md)
 6. [Sine series](/sineSeries/explaination.md)
 7. [Matrix operations](/matrices/explaination.md)
-   <br>
+8. [String Operations](/stringManipulation/explaination.md)
+9. [Fibonacci Series](fibonacci/explaination.md)
+10. [Search](search/explaination.md)
+11. [Employee Structure](employee/explaination.md)
+12. [Swap Numbers](swap/explaination.md)
+    <br>
 
 ### How to Compile
 

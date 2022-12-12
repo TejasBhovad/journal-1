@@ -37,7 +37,11 @@ int main()
 
 ## Output
 
-![Output](/src/output/pyramid.png)
+![Output](/src/output/5-o_p.png)
+
+## Code
+
+![Code](../src/output/5-code.png)
 
 <!-- 
 Note: if you are using text-editor to view this document I highly recommend you to use vs code or sublime text so its easier to read the contents of the file

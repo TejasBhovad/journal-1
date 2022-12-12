@@ -221,8 +221,10 @@ int main()
 
 ## Output
 
-![Output](/src/output/matrix.png)
+![Output](/src/output/7-o_p.png)
 
+## Code
+![Code](../src/output/7-code.png)
 <!-- 
 Note: if you are using text-editor to view this document I highly recommend you to use vs code or sublime text so its easier to read the contents of the file
 VS Code - https://code.visualstudio.com/download
